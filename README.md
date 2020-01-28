@@ -1,2 +1,3 @@
 # fashion-item-recognition-using-convolutional-neural-network-in-tesor-flow
-f
+
+Dataset from tf.keras database
